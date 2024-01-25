@@ -1,0 +1,61 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.speed-bg-container {
+    background-image: linear-gradient(to right, #f3eaff, #dac0ff);
+    height: 100vh;
+    padding: 20px;
+}
+
+.typing-heading {
+    color: #690cb0;
+    padding: 10px;
+    font-weight: 700;
+}
+
+.para-style {
+    color: #3e4c59;
+    font-weight: 700;
+}
+
+.image-style {
+    margin: 10px;
+    height: 50px;
+}
+
+.quote-display {
+    cursor: none;
+
+}
+
+.box-style {
+    border-color: #9aa5b1;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 20px;
+    background-color: #f2ebfe;
+    padding: 15px;
+    margin: 15px;
+}
+
+.submit-btn-style {
+    background-color: #690cb0;
+    color: white;
+    border-radius: 10px;
+    padding: 7px;
+    margin: 10px;
+    width: 100px;
+}
+
+.reset-btn-style {
+    background-color: #f2ebfe;
+    color: #690cb0;
+    border-radius: 10px;
+    padding: 8px;
+    border: 0;
+    margin: 10px;
+    width: 100px;
+}
+
+.d-none {
+    display: none;
+}
